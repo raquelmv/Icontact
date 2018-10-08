@@ -3,9 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "add-px": "^1.0.0",
+    "antd": "^3.10.0",
+    "axios": "^0.18.0",
+    "initials": "^3.0.0",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
-    "react-scripts": "2.0.4"
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.0.4",
+    "react-user-avatar": "^1.10.0",
+    "reqwest": "^2.0.5"
   },
   "scripts": {
     "start": "react-scripts start",

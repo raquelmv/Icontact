@@ -1,0 +1,168 @@
+
+
+export default
+{
+    "contacts":[
+        {
+            "id":"1",
+            "firstName":"Raquel",
+            "lastName":"Martinez",
+            "phoneNum":"(81) 18-487-526",
+            "email":"r_mtz@gmail.com",
+            "Notes":"Met at networking night"
+        },
+        {
+            "id":"2",
+            "firstName":"Ana",
+            "lastName":"Perez",
+            "phoneNum":"(81) 15-845-964",
+            "email":"Ana@gmail.com",
+            "Notes":"--"
+        },
+        {
+            "id":"3",
+            "firstName":"Mario",
+            "lastName":"Mendoza",
+            "phoneNum":"(81) 11-321-854",
+            "email":"mario@gmail.com",
+            "Notes":"posible business partner"
+        },
+        {
+            "id":"4",
+            "firstName":"Jorge",
+            "lastName":"Garcia",
+            "phoneNum":"(81) 13-116-694",
+            "email":"gio@yahoo.com",
+            "Notes":""
+        },
+        {
+            "id":"5",
+            "firstName":"Fany",
+            "lastName":"Alcazar",
+            "phoneNum":"(81) 13-846-694",
+            "email":"alzazar@gmail.com",
+            "Notes":"cleaning lady"
+        },
+        {
+            "id":"6",
+            "firstName":"Bernardo",
+            "lastName":"Garcia",
+            "phoneNum":"(81) 12-946-694",
+            "email":"berno@outlook.com",
+            "Notes":"bussiness assosiate"
+        },
+        {
+            "id":"7",
+            "firstName":"Graciela",
+            "lastName":"Rodriguez",
+            "phoneNum":"(81) 18-596-894",
+            "email":"Grace@gmail.com",
+            "Notes":"Graphic designer from LA"
+        },
+        {
+            "id":"8",
+            "firstName":"Daniela",
+            "lastName":"Santos",
+            "phoneNum":"(81) 82-596-694",
+            "email":"dany@outlook.com",
+            "Notes":"Gerrys cousin"
+        },
+        {
+            "id":"9",
+            "firstName":"Fer",
+            "lastName":"Mierles",
+            "phoneNum":"(81) 82-596-694",
+            "email":"Fernanda@gmail.com",
+            "Notes":"assistant"
+        },
+        {
+            "id":"10",
+            "firstName":"Bernardo",
+            "lastName":"Garcia",
+            "phoneNum":"(81) 82-596-694",
+            "email":"berno@outlook.com",
+            "Notes":"bussiness assosiate"
+        },
+        {
+            "id":"11",
+            "firstName":"Eduardo",
+            "lastName":"Gutierrez",
+            "phoneNum":"(81) 12-596-694",
+            "email":"e.gut@gmail.com",
+            "Notes":"Sales prov."
+        },
+        {
+            "id":"12",
+            "firstName":"Horacio",
+            "lastName":"Cansol",
+            "phoneNum":"(81) 14-785-694",
+            "email":"Horacio@hoymail.com",
+            "Notes":""
+        },
+        {
+            "id":"13",
+            "firstName":"Ivan",
+            "lastName":"Frenandez",
+            "phoneNum":"(81) 15-584-694",
+            "email":"ivanof@gmail.com",
+            "Notes":"pool cleaner"
+        },
+        {
+            "id":"14",
+            "firstName":"Jesus",
+            "lastName":"Davila",
+            "phoneNum":"(81) 82-126-884",
+            "email":"jesus@hoymail.com",
+            "Notes":"Maria´s Husband"
+        },
+        {
+            "id":"15",
+            "firstName":"Karen",
+            "lastName":"Davila",
+            "phoneNum":"(81) 11-888-694",
+            "email":"kari.d@hoymail.com",
+            "Notes":"School team member"
+        },
+        {
+            "id":"15",
+            "firstName":"Leo",
+            "lastName":"Zamora",
+            "phoneNum":"(81) 19-596-854",
+            "email":"zam.leo@hoymail.com",
+            "Notes":"carpenter"
+        },
+        {
+            "id":"16",
+            "firstName":"Nina",
+            "lastName":"Sanchez",
+            "phoneNum":"(81) 17-596-784",
+            "email":"ninas@hoymail.com",
+            "Notes":"CEO Home depot"
+        },
+        {
+            "id":"17",
+            "firstName":"Oscar",
+            "lastName":"Lee",
+            "phoneNum":"(81) 14-596-694",
+            "email":"lee@gmail.com",
+            "Notes":"Finance advisor company "
+        },
+        {
+            "id":"18",
+            "firstName":"Regina",
+            "lastName":"Phelangie",
+            "phoneNum":"(81) 81-546-694",
+            "email":"regis@hoymail.com",
+            "Notes":"Car assistant for maintainance"
+        },
+        {
+            "id":"19",
+            "firstName":"Sergio",
+            "lastName":"Malo",
+            "phoneNum":"(81) 82-758-694",
+            "email":"hey.malo@gmail.com",
+            "Notes":"Lawyer for family cases"
+        }
+    ]
+    
+}

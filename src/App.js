@@ -1,28 +1,29 @@
+
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import { BrowserRouter as Router, Route,Switch } from "react-router-dom";
+import NavBar from './Components/nav-bar.js';
+import Tabs from './Components/tabs.js';
 import './App.css';
+import AddContact from './Containers/add-contact.js';
+import './Containers/assets/main.css'
+
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
+      <Router>
+      <div id="App" className= "wrapper">
+    
+        <NavBar />
+        <Switch>
+          <Route exact path="/" component={Tabs} />
+          <Route exact path="/addcontact" component={AddContact}/>
+        </Switch>
       </div>
+    </Router>
     );
   }
 }
 
 export default App;
+

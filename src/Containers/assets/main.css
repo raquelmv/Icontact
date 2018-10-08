@@ -1,0 +1,48 @@
+.wrapper{
+    margin-left:5%;
+    margin-right:5%;
+
+}
+
+.container{
+    margin-left: 20%
+}
+
+.searchBar{
+    margin-bottom: 5px;
+    margin-top:5px
+}
+
+.title{
+   
+    margin-top: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+    color: #1890ff;
+    
+}
+.subtitle{
+    margin-top: 2px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    color:#1890ff;
+   
+}
+.edit-btn{
+    margin-left:28px;
+    margin-top: 5%
+}
+
+.subtitle2{
+    margin-top: 2px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 13px;
+    color:#1890ff;
+    text-align: left;
+    margin-bottom: 15px;
+    border-bottom: #1890ff 1px dashed;
+    padding-bottom: 10px;
+}
